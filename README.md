@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayurmali2611](https://github.com/Mayurmali2611)
 
-- 💬 Ask me about **C,C++,Java,HTML**
+- 💬 Ask me about **C,C++,Java,HTML,Css,Js**
 
 - 📫 How to reach me **malimayur477@gmail.com**
 
