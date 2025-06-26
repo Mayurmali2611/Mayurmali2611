@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=full%20stack%20developer%20banner&imgurl=https%3A%2F%2Fwww.bluethink.in%2Fwp-content%2Fuploads%2F2021%2F09%2Fjava-banner1-1.jpg&imgrefurl=https%3A%2F%2Fwww.bluethink.in%2Fjava-development-company%2F&docid=0f1YlL18VWJgdM&tbnid=lNFVnPWuk5ymfM&vet=12ahUKEwiEqtPj04-OAxVmia8BHRvZGgwQM3oECG4QAA..i&w=1500&h=375&hcb=2&itg=1&ved=2ahUKEwiEqtPj04-OAxVmia8BHRvZGgwQM3oECG4QAA)
+[![MasterHead](https://learnbay-wb.s3.ap-south-1.amazonaws.com/main-blog/blog/wdp-2.png)
 <h1 align="center">Hi 👋, I'm Mayur Mali</h1>
 <h3 align="center">A passionate About Web Devlopment</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
