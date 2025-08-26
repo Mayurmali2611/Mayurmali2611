@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,HTML,CSS,Javascript,SpringBoot,RestAPI's,Angular.**
 
-- 📫 How to reach me **malimayur@gmail.com**
+- 📫 How to reach me **malimayur477@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
